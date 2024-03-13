@@ -85,6 +85,58 @@ Teve de ser feito pull-requests sempre que os camaradas quiseram atualizar os se
 ### Final version
 ![final_ver](https://github.com/nooblord26/git_work/assets/162144349/196548eb-2ee6-4d9f-897a-2b9330339967)
 
+## Brás work-flow
+
+### Fork
+Após a criação do repositório "git_work" foi feito um Fork para possibilitar o trabalho no mesmo localmente.
+
+
+### Clone
+Após a criação do Fork foi feito um clone do repositório.
+
+![Print1_Bras_git](https://github.com/xiribi-astrolabio/git_work/assets/162144401/6674661e-8c69-4dc9-9cd1-fa8723ce3eda)
+
+### Branch
+Para o trabalho foram criadas 3 branches, bras, bras_merge e bras_rebase
+
+###Branch bras
+
+![Print2_Bras_git](https://github.com/xiribi-astrolabio/git_work/assets/162144401/807c90b5-62a4-4cce-a90d-e24b40828213)
+
+
+###Branch bras_merge
+Esta branch foi criada para a alteração do ficheiro script.py para posteriormente fazer merge desta branch com a branch "bras"
+
+
+![merge](https://github.com/xiribi-astrolabio/git_work/assets/162144401/f5f68278-fdc6-436d-a686-c44930824b0a)
+
+
+
+###Branch bras_rebase
+Esta branch foi criada para a alteração do ficheiro script.py para posteriormente fazer rebase com a branch "bras"
+
+
+![rebase](https://github.com/xiribi-astrolabio/git_work/assets/162144401/7a9809f7-e228-4761-9a0a-4241100092d4)
+
+
+
+
+###Cherry-Pick
+Para o Cherry-Pick foram adicionadas linhas ao ficheiro script.py e realizados 2 commits, após os commits foi feito o Cherry-Pick de um deles através da branch "bras"
+
+
+![cherry-pick](https://github.com/xiribi-astrolabio/git_work/assets/162144401/822953bb-a2d3-4967-b956-b2c281395c6a)
+
+
+
+###Pull-Request
+Após o término de todos os exercícios, foi feito um Pull-Request de forma a fazer "push" de todas as alterações feitas.
+
+
+
+![pull_request](https://github.com/xiribi-astrolabio/git_work/assets/162144401/f7d36b2e-9c82-4116-8758-32d606f10b66)
+
+
 
 ## Reflexões sobre o Processo de Colaboração e Aprendizagem
 Este projeto foi uma oportunidade valiosa para o gripo 3 praticar o controlo de versões. Foram enfrentados desafios, especialmente na resolução de conflitos, mas o mais importante foi a comunicação entre os membros do grupo e a utilizar recursos do Git para encontrar soluções. A conclusão que retiramos deste projeto é a mais valia que o GIT traz para a gestão e organização de um projeto em grande escala.
