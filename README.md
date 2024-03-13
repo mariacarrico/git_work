@@ -99,12 +99,12 @@ Após a criação do Fork foi feito um clone do repositório.
 ### Branch
 Para o trabalho foram criadas 3 branches, bras, bras_merge e bras_rebase
 
-###Branch bras
+### Branch bras
 
 ![Print2_Bras_git](https://github.com/xiribi-astrolabio/git_work/assets/162144401/807c90b5-62a4-4cce-a90d-e24b40828213)
 
 
-###Branch bras_merge
+### Branch bras_merge
 Esta branch foi criada para a alteração do ficheiro script.py para posteriormente fazer merge desta branch com a branch "bras"
 
 
@@ -112,7 +112,7 @@ Esta branch foi criada para a alteração do ficheiro script.py para posteriorme
 
 
 
-###Branch bras_rebase
+### Branch bras_rebase
 Esta branch foi criada para a alteração do ficheiro script.py para posteriormente fazer rebase com a branch "bras"
 
 
@@ -121,7 +121,7 @@ Esta branch foi criada para a alteração do ficheiro script.py para posteriorme
 
 
 
-###Cherry-Pick
+### Cherry-Pick
 Para o Cherry-Pick foram adicionadas linhas ao ficheiro script.py e realizados 2 commits, após os commits foi feito o Cherry-Pick de um deles através da branch "bras"
 
 
@@ -129,7 +129,7 @@ Para o Cherry-Pick foram adicionadas linhas ao ficheiro script.py e realizados 2
 
 
 
-###Pull-Request
+### Pull-Request
 Após o término de todos os exercícios, foi feito um Pull-Request de forma a fazer "push" de todas as alterações feitas.
 
 
