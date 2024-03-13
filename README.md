@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto 
 
-O projeto final foi desenvlovido pelo grupo 3, constituido por 2FURR Brás, 2CAB Costa e 2CAB Carriço, foi uma prática colaborativa entre Git e GitHub, focado bo controlo de versões e trabalho em equipa. Desenvolvemos e aprimoramos um script Python no repositório git_work, onde foram aplicadas técnicas como merges, rebase, cherry-pick, e uso de tags.
+O projeto final foi desenvlovido pelo grupo 3, constituido por 2FURR Brás, 2CAB Costa e 2CAB Carriço, foi uma prática colaborativa entre Git e GitHub, focado no controlo de versões e trabalho em equipa. Desenvolvemos e aprimoramos um script Python no repositório git_work, onde foram aplicadas técnicas como merges, rebase, cherry-pick, e uso de tags.
 
 ## Objetivos do Projeto
 
@@ -138,7 +138,7 @@ Após o término de todos os exercícios, foi feito um Pull-Request de forma a f
 
 ## Carriço Work-Flow
 
-##Fork
+## Fork
 Após ter sido criado o repositório "git_work" foi feito um Fork para podermos trabalhar no mesmo localmente.
 
 
