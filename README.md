@@ -173,7 +173,7 @@ Para o Cherry-Pick foram adicionadas linhsa ao ficheiro "script.py" e realizados
 
 ![dcherrypick](https://github.com/nooblord26/git_work/assets/162144506/5b3b6973-be18-4b2d-81e2-b8b521d5197b)
 
-###Pull-Request
+### Pull-Request
 Quando terminamos todos os exercícios, fizemos um Pull-Request de forma a fazer "push" de todas as alterações que foram feitas.
 
 ![pull_request](https://github.com/nooblord26/git_work/assets/162144506/398d6171-b93d-4db5-8798-9e625a43d270)
