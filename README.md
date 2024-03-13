@@ -136,6 +136,47 @@ Após o término de todos os exercícios, foi feito um Pull-Request de forma a f
 
 ![pull_request](https://github.com/xiribi-astrolabio/git_work/assets/162144401/f7d36b2e-9c82-4116-8758-32d606f10b66)
 
+## Carriço Work-Flow
+
+##Fork
+Após ter sido criado o repositório "git_work" foi feito um Fork para podermos trabalhar no mesmo localmente.
+
+
+### Clone
+Depois fizemos um clone do repositório "git_work".
+
+![1clone](https://github.com/nooblord26/git_work/assets/162144506/edbe9178-73d0-4d41-9497-e80393ad5e49)
+
+### Branch
+Para o trabalho foram criadas 3 branches: carrico, carrico_merge e carrico_rebase.
+
+### Branch carrico
+
+![branch](https://github.com/nooblord26/git_work/assets/162144506/59e7a0c6-26e2-439a-8831-9b06e01eee75)
+
+### Branch carrico_merge
+Esta branch foi criada para alterar o ficheiro "script.py" para que posteriormente fosse possível fazer merge desta branch com a branch "carrico".
+
+
+![git merge](https://github.com/nooblord26/git_work/assets/162144506/3f6aed97-c5ef-4aff-91f0-3b3107d0790d)
+
+
+### Branch carrico_rebase
+Esta branch foi criada para alterar o ficheiro "script.py", de modo a que posteriormente fosse possível fazer rebase com a branch "carrico".
+
+
+![gitrebase](https://github.com/nooblord26/git_work/assets/162144506/fb99281e-297c-44fd-b765-76727349ddf7)
+
+
+### Cherry-Pick
+Para o Cherry-Pick foram adicionadas linhsa ao ficheiro "script.py" e realizados 2 commits, após os este commits terem sido feitos foi feito um Cherry-Pick de um deles através da branch "carrico".
+
+![dcherrypick](https://github.com/nooblord26/git_work/assets/162144506/5b3b6973-be18-4b2d-81e2-b8b521d5197b)
+
+###Pull-Request
+Quando terminamos todos os exercícios, fizemos um Pull-Request de forma a fazer "push" de todas as alterações que foram feitas.
+
+![pull_request](https://github.com/nooblord26/git_work/assets/162144506/398d6171-b93d-4db5-8798-9e625a43d270)
 
 
 ## Reflexões sobre o Processo de Colaboração e Aprendizagem
